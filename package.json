@@ -1,0 +1,20 @@
+{
+  "name": "file_mgmt_with_google_drive",
+  "version": "1.0.0",
+  "description": "File management app with google drive API and google cloud service account.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "files",
+    "google",
+    "drive",
+    "management",
+    "download",
+    "upload"
+  ],
+  "author": "wahsandaruwan",
+  "license": "ISC"
+}
